@@ -1,0 +1,84 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+body{
+    background-color: hsl(205, 100%, 96%);;
+    font-family: 'Roboto', sans-serif;
+}
+.title h1{
+    font-size: 25px;
+    font-weight: 1000;
+    margin-bottom: 20px;
+}
+.title{
+    text-align: center;
+
+    padding:70px
+}
+
+.underline{
+    border:2px solid goldenrod;
+    max-width:70px;
+    margin:0 auto
+}
+.photo{
+    display: inline-block;
+    border:5px solid goldenrod;
+    width: 400px;
+    height:250px;
+    border-radius: 4px;
+}
+p{
+    width: 400px;
+
+}
+.foodList {
+    /* border: 2px solid red; */
+    max-width: 1000px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 400px 400px;
+    grid-gap: 100px;
+    
+}
+.foodInfo{
+    display:flex;
+    justify-content: space-between;
+}
+.dottedLine{
+    border:grey 1px dotted
+}
+.filter{
+    /* border:solid 2px red; */
+    text-align: center;
+    margin-bottom: 50px;
+}
+.filter button {
+    height:50px;
+    width:100px;
+    margin:20px;
+    color:goldenrod;
+    font-size: 20px;
+    border:goldenrod 2px solid;
+    border-radius:10px;
+    transition: 1s;
+}
+
+.filter button:hover , .filter button:hover  {
+    height:50px;
+    width:100px;
+    margin:20px;
+    color:white;
+    font-size: 20px;
+    border:white 2px solid;
+    border-radius:10px;
+    background-color: black;
+}
+
+footer p{
+    margin:50px auto;
+    text-align: center;
+    /* border:red solid 2px; */
+}

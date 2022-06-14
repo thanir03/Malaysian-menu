@@ -1,0 +1,30 @@
+Breakfast
+/[] Roti canai RM 2 
+/[] Nasi Lemak RM3
+/[] Laksa RM6
+
+
+Lunch
+/[] Kway Teow RM 5
+/[] Nasi Kandar RM 9
+/[] Nasi Goreng RM 5
+/[] Nasi Kerabu RM 7
+/[] Rendang RM 5
+/[] Wantan Mee RM 6
+
+
+
+Dinner 
+/[] Tosai RM 2
+/[] Capati RM 2
+/[] Naan RM 3
+/[] Maggi Goreng RM 5
+/[] Mee Goreng RM 5
+
+
+Dessert
+/[] Sate RM5
+/[] Cendol RM 4
+/[] Curry puff RM 2
+/[] Rojak RM 6
+
